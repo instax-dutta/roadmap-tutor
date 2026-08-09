@@ -1,5 +1,8 @@
 # roadmap-tutor
 
+[![skills.sh](https://skills.sh/b/instax-dutta/roadmap-tutor)](https://skills.sh/instax-dutta/roadmap-tutor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A [Hermes Agent](https://github.com/NousResearch/hermes-agent) skill that turns
 any of the 91 official [roadmap.sh](https://roadmap.sh) roadmaps into a
 resumable, one-topic-at-a-time curriculum.
@@ -36,8 +39,17 @@ same curriculum follows you to whichever one is already open on your phone.
 
 ## Install
 
+Hermes Agent:
+
 ```bash
 hermes skills install instax-dutta/roadmap-tutor
+```
+
+Any other skills-compatible agent (Claude Code, Cursor, Codex, OpenCode,
+Goose, Windsurf, …):
+
+```bash
+npx skills add instax-dutta/roadmap-tutor
 ```
 
 Or clone it straight into your skills directory:

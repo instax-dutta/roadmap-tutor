@@ -196,7 +196,8 @@ revisit that step.
 ## Install
 
 ```bash
-hermes skills install instax-dutta/roadmap-tutor
+hermes skills install instax-dutta/roadmap-tutor   # Hermes
+npx skills add instax-dutta/roadmap-tutor          # any other agent
 ```
 
 Or manually:
