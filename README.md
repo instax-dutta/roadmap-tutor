@@ -183,3 +183,12 @@ Roadmap content belongs to [roadmap.sh](https://roadmap.sh) and its
 [contributors](https://github.com/kamranahmedse/developer-roadmap), and is
 fetched live from their public endpoints. This skill only sequences and tracks
 it.
+
+## More agent skills by me
+
+- [flash-compare](https://github.com/instax-dutta/flash-compare) - Flash-style top-1% product comparisons, exactly how flash.co works
+- [master-pitcher](https://github.com/instax-dutta/master-pitcher) - Audit, draft, or roast pitch decks with an 18-check VC framework
+- [brand-vibes](https://github.com/instax-dutta/brand-vibes) - Apply any company's design language while vibecoding, 66 brand profiles
+- [market-validator](https://github.com/instax-dutta/market-validator) - Validate SaaS ideas with real user complaints across 10+ platforms
+- [scroll-3d-world](https://github.com/instax-dutta/scroll-3d-world) - Scroll-scrubbed 3D fly-through landing pages in Three.js, no AI video
+- [google-code-review](https://github.com/instax-dutta/google-code-review) - Google's code review best practices as an agent skill
