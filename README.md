@@ -137,3 +137,4 @@ it.
 - [market-validator](https://github.com/instax-dutta/market-validator) - Validate SaaS ideas with real user complaints across 10+ platforms
 - [scroll-3d-world](https://github.com/instax-dutta/scroll-3d-world) - Scroll-scrubbed 3D fly-through landing pages in Three.js, no AI video
 - [google-code-review](https://github.com/instax-dutta/google-code-review) - Google's code review best practices as an agent skill
+- [finetune-llm](https://github.com/instax-dutta/finetune-llm) - Hardware-aware LLM fine-tuning: probe the GPU, pick the engine, verify the result
